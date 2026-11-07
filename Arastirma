@@ -1,0 +1,23 @@
+Günümüzde teknoloji hayatımızın her alanında hızla gelişmekte ve dönüşmektedir. Bu dönüşümün en merkezinde ise yapay zekâ teknolojileri yer almaktadır. Yapay zekâ, makinelerin insan benzeri bilişsel yetenekler kazanmasını sağlayan geniş bir alandır. Bu çalışmada, yapay zekânın temel kavramları ele alınacak, alt dalları incelenecek ve günlük hayattaki kullanım alanları keşfedilecektir.
+1. Yapay Zekâ, Makine Öğrenmesi ve Derin Öğrenme Arasındaki Farklar
+Yapay zekâ (AI), makinelerin insan beynine benzer davranarak problem çözmesi, karar vermesi ve öğrenmesi amacıyla geliştirilen en kapsamlı teknolojidir. Bu kavram, makinelerin sadece belirli kurallarla kodlanmasından çok daha fazlasını içerir.
+Makine Öğrenmesi (Machine Learning)
+Makine öğrenmesi, yapay zekânın bir alt dalıdır. Bildiğimiz programlamada bilgisayara kurallar direkt yazılırken, makine öğrenmesinde bilgisayara veriler ve sonuçlar verilir; sistem bu verilerden kendi kurallarını ve kalıplarını öğrenir. İnsan etkisine gerek kalmadan verilerden istatistiksel çıkarımlar yaparak kendini ilerletir.
+Derin Öğrenme (Deep Learning)
+Derin öğrenme ise makine öğrenmesinin daha gelişmiş bir dalıdır. İnsan beyin yapısından esinlenerek oluşturulmuş yapay sinir ağını kullanır. Çok katmanlı bu yapı sayesinde büyük verilerdeki karmaşık ilişkileri ve desenleri doğrudan işlenmemiş veriden öğrenebilir. Az insan etkisi gerektirir ve özellikle büyük verilerde yüksek başarı gösterir, kısaca bu yöntem daha büyük veriler için geliştirilmiş çoklu makine öğrenmesidir.
+2. Çalışma Mantığı
+Yapay zekâ sistemleri temel olarak büyük miktarda verinin toplanması, bu verilerin algoritmalar aracılığıyla işlenmesi ve işlevsel ve de kullanılabilşr sonuçlar üretilmesi mantığıyla çalışır.
+• Veri Toplama: Sistemlerin öğrenebilmesi için çeşitli medyalardan büyük veri setlerine ihtiyaç duyulur.
+• Verilerin Örüntülerinin Çıkarımı ve Eğitim: Veriler algoritmalardan geçirilerek aralarındaki ilişkiler keşfedilir. Algoritma, geçmişteki örneklerden yola çıkarak bir model oluşturur.
+• Tahmin ve Karar: Eğitilen model, daha önce hiç karşılaşmadığı yeni bir veri ile karşılaştığında bu veri üzerinden tahmin yürütür veya bir karar verir. Süreç boyunca sistem hata oranlarını minimuma indirmek için kendini sürekli yeniler.
+3. Günlük Hayattaki Kullanım Alanları
+Yapay zekâ ve alt teknolojileri artık hayatımızın her noktasında sessizce görev yapmaktadır:
+• Sağlık Sektörü: Tıbbi görüntülerin (röntgen, MR) analizi, hastalıkların erken teşhisi ve kişiselleştirilmiş tedavi yöntemlerinin geliştirilmesinde kullanılır.
+• Ulaşım ve Haritalar: Navigasyon uygulamaları anlık trafik yoğunluğunu analiz ederek en hızlı rotayı çizer. Ayrıca otonom (kendi kendine giden) araçların geliştirilmesinde yapay zekâ temel rol oynar.
+• Eğlence ve Öneri Sistemleri: Film, dizi ve müzik platformları (Netflix, Spotify vb.) izleme ve dinleme alışkanlıklarımızı analiz ederek bize özel içerik önerilerinde bulunur.
+• Finans ve Bankacılık: Kredi kartı dolandırıcılığının anlık olarak tespit edilmesi, risk analizi ve müşteri hizmetlerinde kullanılan chatbotlar bu alana örnektir.
+• Dil ve Çeviri: Metin ve ses çeviri araçları, dil öğrenme uygulamaları ve akıllı asistanlar günlük iletişimi kolaylaştırır.
+Kaynakça
+• Russell, S., & Norvig, P. (2020). Artificial Intelligence: A Modern Approach. Pearson.
+• Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep Learning. MIT Press.
+• Mitchell, T. M. (1997). Machine Learning. McGraw-Hill.
